@@ -1,7 +1,18 @@
+# 💫 About Me:
+Hi there! I’m Breta Odhiambo Osodo, a Data Scientist and Machine Learning Engineer passionate about turning raw data into intelligent insights that drive real business impact.<br><br>I’m currently working on a Credit Card Fraud Detection System that leverages advanced machine learning algorithms to enhance accuracy and reduce false positives.<br><br>I enjoy exploring how Artificial Intelligence, Machine Learning, and Data Engineering can be applied to solve real-world problems — especially in finance, agriculture, and business optimization.<br><br>When I’m not coding, I’m usually learning about Generative AI, data-driven business strategy, or mentoring others interested in data science.<br><br><br>🌍 What I’m Currently Doing<br><br>. 🧾 Building a two-stage fraud detection model using XGBoost and Decision Trees<br><br> .🧠 Exploring Generative AI applications for business automation<br><br> .📊 Designing data visualization dashboards for analytics storytelling<br><br> .🤝 Open to collaborating on AI-driven projects that make a social or business impact<br><br>🎯 Goals<br><br>To build data-driven solutions that empower African businesses<br><br>To scale my projects into AI-based platforms with measurable impact<br><br>To continuously improve my skills in MLOps, big data, and AI systems design
 
-.
 
-<!---
-BretaOsodo/BretaOsodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osodo.breta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/breta odhiambo osodo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@osod_0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bretajourney) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=breta osodo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=breta osodo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=breta osodo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=breta osodo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
