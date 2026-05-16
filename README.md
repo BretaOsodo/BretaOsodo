@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am an aspiring Data Engineer passionate about building scalable batch and real-time data systems. I enjoy designing end-to-end data pipelines, working with distributed processing frameworks, and building analytics-ready data platforms.<br><br>My current focus is on Data Engineering technologies including Apache Spark, Apache Kafka, Apache Airflow, Apache Druid, and AWS, with hands-on experience building streaming and batch pipelines, lakehouse architectures, and observable data platforms.<br><br>I have built production-style projects including a hybrid stock market data platform using Kafka, Spark Structured Streaming, Airflow, MinIO, Prometheus, and Grafana, as well as an AWS-based lakehouse for East African agricultural market data.<br><br>Coming from a Civil Engineering background, I bring strong systems thinking, analytical problem-solving, and structured technical communication to data engineering challenges.<br><br>### Currently Exploring<br>- Real-time analytics architectures<br>- Lakehouse and data mesh concepts<br>- Apache Druid for OLAP analytics<br>- AWS-based data engineering workflows<br><br>### Tech Stack<br>**Data Engineering:** Spark • Kafka • Airflow • Druid • PySpark • SQL  <br>**Cloud & Storage:** AWS S3 • MinIO • Parquet • Data Lake Architecture  <br>**Infrastructure:** Docker • Prometheus • Grafana • Git
 
-<!--
-**BretaOsodo/BretaOsodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Breta Odhiambo) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BretaOsodo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BretaOsodo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BretaOsodo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=BretaOsodo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
